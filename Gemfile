@@ -42,3 +42,4 @@ gem 'pundit', '~> 1.1'
 gem 'twilio-ruby', '~> 5.0'
 gem 'dotenv-rails' , :groups => [:development, :test]
 gem 'rails_12factor'
+gem 'newrelic_rpm'
